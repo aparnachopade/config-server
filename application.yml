@@ -1,4 +1,4 @@
-department-url: http://localhost:9002/departments/all
+department-url: http://DEPARTMENT-SERVICE/departments/all
 eureka:
   instance:
     prefer-ip-address: true
