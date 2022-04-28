@@ -1,4 +1,4 @@
-department-url: http://DEPARTMENT-SERVICE/departments/all
+department-url: http://DEPARTMENT-SERVICE/departments/allDept
 eureka:
   instance:
     prefer-ip-address: true
