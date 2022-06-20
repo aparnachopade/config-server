@@ -1,9 +1,4 @@
 products:
-  id: 101
-  rating: 3
-  
-  id: 201
-  rating: 4
-  
-  id: 301
-  rating: 5
+  101: 3
+  201: 5
+  301: 1
