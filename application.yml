@@ -8,5 +8,10 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
     instance:
       hostname: localhost
+application.product:
+  ratings:
+    101: 2
+    201: 3
+    301: 5
       
       
