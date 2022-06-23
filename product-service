@@ -1,4 +1,1 @@
-ratings:
-  101: 3
-  201: 5
-  301: 1
+feature.flag: true
