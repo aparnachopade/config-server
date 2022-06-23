@@ -1,6 +1,0 @@
-feature.flag: true
-
-ratings:
-  101: 2
-  201: 3
-  301: 5
