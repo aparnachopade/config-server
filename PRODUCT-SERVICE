@@ -1,6 +1,5 @@
-feature.flag: true
-
-ratings:
-  101: 2
-  201: 3
-  301: 5
+application.product:
+  ratings:
+    101: 2
+    201: 3
+    301: 5
